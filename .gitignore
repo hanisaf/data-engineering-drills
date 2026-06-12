@@ -1,5 +1,6 @@
 .DS_Store
 tmp/
+spark-warehouse/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

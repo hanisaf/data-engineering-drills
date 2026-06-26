@@ -1,5 +1,6 @@
 .DS_Store
 tmp/
+out/
 spark-warehouse/
 # Byte-compiled / optimized / DLL files
 __pycache__/
